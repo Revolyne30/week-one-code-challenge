@@ -1,5 +1,5 @@
-SA 01 W1 CODE CHALLENGE
-22<sup>nd</sup> March 2024
+WEEK ONE CODE CHALLENGE
+26 March 2024
 
 By revolyne mwangi
 This document was created with Javascript
